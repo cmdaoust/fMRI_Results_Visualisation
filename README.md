@@ -1,2 +1,2 @@
 # fMRI_Results_Visualisation
-Information on how to visualise the results of fMRI analyses
+Tutorial script visualizing results of fMRI connectivity analyses using netplotbrain
